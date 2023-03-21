@@ -10,6 +10,7 @@ curl -X GET http://localhost:8080/ -v -H "Authorization: Bearer eyJhbGciOiJSUzI1
 
 ## Using Postman
 
-![](/home/frank/develop/project/edu/spring/spring-boot/security/jwt-dan-vega/demo/static/Postman1.jpg)
 
-![](/home/frank/develop/project/edu/spring/spring-boot/security/jwt-dan-vega/demo/static/Postman2.jpg)
+![](/home/frank/develop/project/edu/spring/spring-boot/security/jwt-dan-vega/spring-boot-security-jwt-2/static/Postman1.png)
+
+![](/home/frank/develop/project/edu/spring/spring-boot/security/jwt-dan-vega/spring-boot-security-jwt-2/static/Postman2.jpg)
